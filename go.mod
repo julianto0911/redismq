@@ -1,6 +1,6 @@
-module app
+module github.com/julianto0911/redismq
 
-go 1.22.3
+go 1.22.2
 
 require (
 	github.com/matttproud/gocheck v0.0.0-20130118152435-ecced547db7c
